@@ -1,0 +1,7 @@
+# python 3.11
+selenium
+webdriver-manager
+beautifulsoup4
+pandas
+tqdm
+lxml
